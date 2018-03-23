@@ -1,0 +1,3 @@
+[submodule "mainUnity/VRARInCar/Assets/Randomation-Vehicle-Physics"]
+	path = Assets/Randomation-Vehicle-Physics
+	url = https://github.com/RandomationGames/Randomation-Vehicle-Physics/
