@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 574f75023dc150343ab7729376f2f60c
+timeCreated: 1498540115
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackLight1
+    100002: BackLight1 1
+    100004: BackLight2
+    100006: Body1
+    100008: //RootNode
+    100010: door
+    100012: door1
+    100014: Glass1
+    100016: GLX_400_GRP
+    100018: HeadLight1
+    100020: HeadLight2
+    100022: pasted__polySurface662
+    100024: pCylinder1
+    100026: pCylinder2
+    100028: pCylinder3
+    100030: pCylinder4
+    100032: pCylinder5
+    100034: Plastik1
+    100036: Plastik2
+    100038: Plastik3
+    100040: Plastik4
+    100042: Plastik5
+    100044: Plastik6
+    100046: Plastik7
+    100048: Plastik8
+    100050: polySurface658
+    100052: polySurface659
+    100054: polySurface660
+    100056: polySurface660 1
+    100058: polySurface661
+    100060: polySurface663
+    100062: polySurface664
+    100064: polySurface665
+    100066: polySurface666
+    100068: polySurface667
+    100070: polySurface668
+    100072: polySurface670
+    100074: polySurface671
+    100076: polySurface672
+    100078: transform10
+    100080: transform11
+    100082: transform12
+    100084: transform13
+    100086: transform14
+    100088: transform15
+    100090: transform16
+    100092: transform17
+    100094: transform3
+    100096: transform4
+    100098: transform5
+    100100: transform6
+    100102: transform7
+    100104: transform8
+    100106: transform9
+    100108: UnderCar1
+    100110: Wheel1
+    100112: Wheel2
+    100114: Wheel3
+    100116: Wheel4
+    400000: BackLight1
+    400002: BackLight1 1
+    400004: BackLight2
+    400006: Body1
+    400008: //RootNode
+    400010: door
+    400012: door1
+    400014: Glass1
+    400016: GLX_400_GRP
+    400018: HeadLight1
+    400020: HeadLight2
+    400022: pasted__polySurface662
+    400024: pCylinder1
+    400026: pCylinder2
+    400028: pCylinder3
+    400030: pCylinder4
+    400032: pCylinder5
+    400034: Plastik1
+    400036: Plastik2
+    400038: Plastik3
+    400040: Plastik4
+    400042: Plastik5
+    400044: Plastik6
+    400046: Plastik7
+    400048: Plastik8
+    400050: polySurface658
+    400052: polySurface659
+    400054: polySurface660
+    400056: polySurface660 1
+    400058: polySurface661
+    400060: polySurface663
+    400062: polySurface664
+    400064: polySurface665
+    400066: polySurface666
+    400068: polySurface667
+    400070: polySurface668
+    400072: polySurface670
+    400074: polySurface671
+    400076: polySurface672
+    400078: transform10
+    400080: transform11
+    400082: transform12
+    400084: transform13
+    400086: transform14
+    400088: transform15
+    400090: transform16
+    400092: transform17
+    400094: transform3
+    400096: transform4
+    400098: transform5
+    400100: transform6
+    400102: transform7
+    400104: transform8
+    400106: transform9
+    400108: UnderCar1
+    400110: Wheel1
+    400112: Wheel2
+    400114: Wheel3
+    400116: Wheel4
+    2300000: BackLight1
+    2300002: BackLight2
+    2300004: door1
+    2300006: HeadLight1
+    2300008: HeadLight2
+    2300010: pCylinder3
+    2300012: pCylinder4
+    2300014: Plastik2
+    2300016: Plastik3
+    2300018: Plastik4
+    2300020: Plastik6
+    2300022: Plastik7
+    2300024: Plastik8
+    2300026: polySurface658
+    2300028: polySurface667
+    2300030: polySurface670
+    2300032: polySurface671
+    2300034: polySurface672
+    2300036: UnderCar1
+    2300038: Wheel1
+    2300040: Wheel2
+    2300042: Wheel3
+    2300044: Wheel4
+    3300000: BackLight1
+    3300002: BackLight2
+    3300004: door1
+    3300006: HeadLight1
+    3300008: HeadLight2
+    3300010: pCylinder3
+    3300012: pCylinder4
+    3300014: Plastik2
+    3300016: Plastik3
+    3300018: Plastik4
+    3300020: Plastik6
+    3300022: Plastik7
+    3300024: Plastik8
+    3300026: polySurface658
+    3300028: polySurface667
+    3300030: polySurface670
+    3300032: polySurface671
+    3300034: polySurface672
+    3300036: UnderCar1
+    3300038: Wheel1
+    3300040: Wheel2
+    3300042: Wheel3
+    3300044: Wheel4
+    4300000: polySurface667
+    4300002: Plastik2
+    4300004: Plastik3
+    4300006: UnderCar1
+    4300008: Wheel1
+    4300010: Wheel2
+    4300012: Wheel3
+    4300014: Wheel4
+    4300016: Plastik4
+    4300018: Plastik6
+    4300020: Plastik7
+    4300022: BackLight2
+    4300024: HeadLight2
+    4300026: HeadLight1
+    4300028: polySurface658
+    4300030: Plastik8
+    4300032: BackLight1
+    4300034: door1
+    4300036: pCylinder3
+    4300038: pCylinder4
+    4300040: polySurface670
+    4300042: polySurface671
+    4300044: polySurface672
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 40
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
