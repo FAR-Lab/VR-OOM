@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Leap.Unity;
-using UnityEngine.VR;
+using UnityEngine.XR;
 
 public class seatCallibration : MonoBehaviour
 {
-    public IHandModel HandModelL;
-    public IHandModel HandModelR;
+    public HandModelBase HandModelL;
+    public HandModelBase HandModelR;
 
     public Transform steeringWheelCenter;
     public Transform passangerCenter;
