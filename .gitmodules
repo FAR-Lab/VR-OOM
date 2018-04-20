@@ -1,6 +1,7 @@
 [submodule ".\\Assets\\External\\LeapMotion"]
 	path = .\\Assets\\External\\LeapMotion
-	url = https://github.com/leapmotion/UnityModules.git
+	url = https://github.com/leapmotion/UnityModules
+
 [submodule ".\\Assets\\External\\Randomation-Vehicle-Physics"]
 	path = .\\Assets\\External\\Randomation-Vehicle-Physics
-	url = https://github.com/RandomationGames/Randomation-Vehicle-Physics.git
+	url = https://github.com/RandomationGames/Randomation-Vehicle-Physics
