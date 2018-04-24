@@ -7,7 +7,8 @@ This is the main repository for VR-OOM. An on-road simulator hybrid that utilize
 * [Master Thesis Presentation](https://www.youtube.com/watch?v=qy-MHb36Mss)
 ## Installation
 
-Download and install the[Logitech SDK Assets](https://assetstore.unity.com/packages/tools/integration/logitech-gaming-sdk-6630) from the asset store and move them into the external folder.
+**This Project is still very much under construction. Over the next few weeks and month both the project and documentation should become more and more extended to be more easily used by others.**
+
 
 ## To-dos
 * lots of things
