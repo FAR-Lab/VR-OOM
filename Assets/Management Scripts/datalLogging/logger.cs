@@ -48,7 +48,7 @@ public class logger : MonoBehaviour{
     
     void Start ()
 	{
-        LogitechGSDK.LogiSteeringInitialize(false);
+        //LogitechGSDK.LogiSteeringInitialize(false);
         myGUID = System.Guid.NewGuid();
         canObject = GameObject.FindObjectOfType<UDPReceive>(); // should be only one in the scene 
         mainCam = GameObject.FindObjectOfType<Camera>();
@@ -115,14 +115,14 @@ void client_MqttMsgPublishReceived(object sender, MqttMsgPublishEventArgs e)
             logData(player.transform, player.transform.rotation.z, "Qz");
             logData(player.transform, player.transform.rotation.w, "Qw");
             logData(transform, (1.0f / Time.deltaTime), "frameRate");
-            if (LogitechGSDK.LogiUpdate() && LogitechGSDK.LogiIsConnected(0))
+            /*if (LogitechGSDK.LogiUpdate() && LogitechGSDK.LogiIsConnected(0))
             {
                 LogitechGSDK.DIJOYSTATE2ENGINES rec;
                 rec = LogitechGSDK.LogiGetStateUnity(0);
                 logData(transform, (float)rec.lX, "SteeringWheelInput");
 
                // Debug.Log("x-axis" + (float)rec.lX);
-            }
+            }*/
 
             if (player.GetComponent<seatCallibration>() != null)
             {

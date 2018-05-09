@@ -11,12 +11,12 @@ public class RotateSteering : MonoBehaviour {
         startRotation = transform.localRotation;
         //  targetANgle = 0f;
 
-        LogitechGSDK.LogiSteeringInitialize(false);
+        //LogitechGSDK.LogiSteeringInitialize(false);
     }
 	
 	// Update is called once per frame
 	void Update () {
-        if (LogitechGSDK.LogiUpdate() && LogitechGSDK.LogiIsConnected(0))
+      /*  if (LogitechGSDK.LogiUpdate() && LogitechGSDK.LogiIsConnected(0))
         {
             LogitechGSDK.DIJOYSTATE2ENGINES rec;
             rec = LogitechGSDK.LogiGetStateUnity(0);
@@ -28,7 +28,7 @@ public class RotateSteering : MonoBehaviour {
             //logData(transform, (float)rec.lX, "SteeringWheelInput");
 
             // Debug.Log("x-axis" + (float)rec.lX);
-        }
+        }*/
 
     }
 }
