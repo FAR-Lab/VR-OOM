@@ -140,12 +140,13 @@ public class UDPReceive : MonoBehaviour
                         if (msgID.Equals("00B6")) {
                             string str_speed = text.Substring(4, 5);
                             speed = ((double)Int32.Parse(str_speed)) / 36.0d;
-                            Debug.Log(speed);
+                            //Debug.Log(speed);
                         }
                     }
                     else
                     {
                         speed = ((double)Int32.Parse(text)) / 1.609d / 3.6d;  // We changed this here 
+                        //speed = (speed * 0.2d) + (0.8d * ((double)Int32.Parse(text)) / 1.609d / 3.6d);  // We changed this here 
 
                     }
 

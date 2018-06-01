@@ -111,9 +111,13 @@ public class seatCallibration : MonoBehaviour
                 {
                     callibrationTimer = 0;
                 }
-                 transform.position= OriginalPosition;
+                transform.position= OriginalPosition;
                 InputTracking.Recenter();
-                headPose.parent.transform.rotation = transform.parent.rotation;
+                //Quaternion rotation = Quaternion.(.eulerAngles, headPose.parent.transform.forward); ;
+                Quaternion rotation = Quaternion.FromToRotation(headPose.forward, transform.parent.forward);
+
+                headPose.parent.transform.Rotate(new Vector3(0, rotation.eulerAngles.y, 0));
+                //headPose.parent.transform.rotation = transform.parent.rotation;
                 //transform.rotation = transform.parent.rotation;
 
             }
