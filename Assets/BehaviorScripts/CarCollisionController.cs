@@ -13,7 +13,7 @@ public class CarCollisionController : MonoBehaviour {
 
 	public float delayTime;
 	public AIInput CrashCar;
-
+    public bool triggerPlease;
 	logger mainLogger;
 	// Use this for initialization
 	void Start () {
@@ -24,6 +24,14 @@ public class CarCollisionController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        if (triggerPlease && !triggered)
+        {
+            triggerPlease = false;
+            triggered = true;
+            startCar = startCarMoving(delayTime);
+            StartCoroutine(startCar);
+        }
+
 		if (triggered) {
 			mainLogger.logData(CrashCar.transform, CrashCar.transform.position.x, "xPos");
 			mainLogger.logData(CrashCar.transform, CrashCar.transform.position.y, "yPos");

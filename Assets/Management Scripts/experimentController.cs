@@ -57,11 +57,15 @@ public class experimentController : MonoBehaviour {
 			GameObject.FindObjectOfType<seatCallibration>().reCallibrate();
 			ControllerInfo += "Callibrating Seat";
 		}
+        if (GUI.Button(new Rect(10, yPos += height, width, height), "findGPSPosition"))
+        {
+            GameObject.FindObjectOfType<extCarMotionController>().estimateCarPositionWithGPS=true;
+            ControllerInfo += "find GPS Position";
+        }
 
 
 
-       
-		if (GUI.Button(new Rect(10, yPos+=height, width, height), "Change to: "+Normal))
+        if (GUI.Button(new Rect(10, yPos+=height, width, height), "Change to: "+Normal))
         {
         loadNextScene = true;
         nextState = sceneState.SCENESTATE_NORMAL;

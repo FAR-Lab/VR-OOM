@@ -7,11 +7,12 @@ public class extCarMotionController : MonoBehaviour
 {
 	Quaternion startOrientation;
     public  Quaternion originalOrientation;
-	public bool callibrate = true;
+    public bool callibrate = true;
 	UDPReceive myReceiver;
     Vector3 startPosition;
     float targetY;
 
+    public bool estimateCarPositionWithGPS = false;
 
     //Static Condition Variables;
     private bool isCalibrated;
@@ -19,14 +20,15 @@ public class extCarMotionController : MonoBehaviour
 
     public InternalVehicleMotion CopyCar;
     Vector3 OffsetVector = new Vector3(0, 0, 0);
+    Vector3 gpsOffsest = new Vector3(0, 0, 0);
     /// <summary>
     ///  this implementation only works for flat surfaces 
-    ///  it fixes the cars position to that Zvalue 
+    ///  it fixes the cars position to that Yvalue 
     ///  
     /// rotationally it allows us to do alot but we stay on the x-z plae
     /// </summary>
     // Invoked when a line of data is received from the serial device.
-	void Start(){
+    void Start(){
         isCalibrated = false;
         myReceiver = GameObject.FindObjectOfType<UDPReceive>();
         targetY =  transform.position.y;
@@ -59,8 +61,21 @@ public class extCarMotionController : MonoBehaviour
                 transform.rotation = originalOrientation;
                 startOrientation = myReceiver.rotation;
                 transform.position = startPosition;
+               
+
+
             }
             transform.rotation = originalOrientation * Quaternion.Inverse(startOrientation) * myReceiver.rotation;
+            if (estimateCarPositionWithGPS)
+            {
+                if (myReceiver.gpsFix) { 
+                estimateCarPositionWithGPS = false;
+
+                transform.position = myReceiver.gpsLocation - GameObject.FindObjectOfType<gpsManager>().updateOffset();
+                }
+            }
+
+
         }else {
             if (callibrate)
             {

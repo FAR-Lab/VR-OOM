@@ -17,6 +17,7 @@ public class seatCallibration : MonoBehaviour
     public bool arTracking = true;
     public bool forPassenger = true;
     public bool continuesHandTracking = true;
+    public bool gpsTracking = true;
 
     float yRotationCorrectio = 0;
     float accumelatedYError=0;
@@ -41,6 +42,8 @@ public class seatCallibration : MonoBehaviour
     public Vector3 offset;
     public Quaternion rotOld;
     public Quaternion driftCorrection;
+
+    Vector3 gpsOffsest = new Vector3(0, 0, 0);
     void Start()
     {
         myReceiver = GameObject.FindObjectOfType<UDPReceive>();

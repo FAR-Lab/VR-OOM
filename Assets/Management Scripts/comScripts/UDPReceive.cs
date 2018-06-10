@@ -35,16 +35,25 @@ public class UDPReceive : MonoBehaviour
 	public Quaternion rotation =  Quaternion.identity;
     public bool markerUsable;
     public Quaternion marker;
+
+    
+    public Vector3 gpsLocation= new Vector3(0.0f,0.0f,0.0f);
+    public bool gpsFix = false;
+    
+
     public Vector3 markerRotationTEMP;
     Quaternion prevMarker;
     float angle;
+
 
     public volatile bool running = true;
 	// receiving Thread
 	Thread speedReceiveThread;
 	Thread rotationReceiveThread;
     Thread markerReceiveThread;
-   public int IMUQuality=0;
+    Thread gpsReceiveThread;
+
+    public int IMUQuality=0;
     private bool markerReceived;
     float markerTimer;
 
@@ -52,11 +61,12 @@ public class UDPReceive : MonoBehaviour
 	// define > init
 	public int rotationPort = 5001;
     public int markerPort = 5002;
+    public int gpsPort = 5003;
 
     public UdpClient speedClient;
 	public UdpClient rotationClient;
     public UdpClient markerClient;
-
+    public UdpClient gpsClient;
     public void Start ()
 	{
 		running = true;
@@ -76,6 +86,11 @@ public class UDPReceive : MonoBehaviour
         markerReceiveThread.IsBackground = true;
         markerReceiveThread.Start(markerClient);
 		rotation =  Quaternion.identity;
+
+        gpsClient = new UdpClient(gpsPort);
+        gpsReceiveThread = new Thread(this.ReceiveData);
+        gpsReceiveThread.IsBackground = true;
+        gpsReceiveThread.Start(gpsClient);
     }
 
 	// OnGUI
@@ -136,17 +151,21 @@ public class UDPReceive : MonoBehaviour
                 if (client == speedClient) {
                     //Debug.Log(text);
                     if (!useOBD2) {
+                        
                         string msgID = text.Substring(0, 4);
                         if (msgID.Equals("00B6")) {
                             string str_speed = text.Substring(4, 5);
-                            speed = ((double)Int32.Parse(str_speed)) / 36.0d;
+                            speed = (((double)Int32.Parse(str_speed))/6d) / 3.6d;
                             //Debug.Log(speed);
                         }
                     }
                     else
                     {
-                        speed = ((double)Int32.Parse(text)) / 1.609d / 3.6d;  // We changed this here 
-                        //speed = (speed * 0.2d) + (0.8d * ((double)Int32.Parse(text)) / 1.609d / 3.6d);  // We changed this here 
+                        //speed = (((double)Int32.Parse(text)*10)/6)/3.6;
+                       
+                        //speed = (((double)Int32.Parse(text)) / 3.6d)*1.69d;
+                        //speed = ((double)Int32.Parse(text)) / 1.609d / 3.6d;  // We changed this here 
+                        speed = (speed * 0.2d) + (0.8d * ((double)Int32.Parse(text)) / 1.609d / 3.6d);  // We changed this here 
 
                     }
 
@@ -177,6 +196,23 @@ public class UDPReceive : MonoBehaviour
                     }
                  
                 }
+                else if (client == gpsClient)
+                {
+                    char[] spl = { ',' };
+                    string[] blub = text.Split(spl);
+
+                    if (blub.Length ==2)
+                    {
+                        gpsLocation = LatLonToVec(float.Parse(blub[0]), float.Parse(blub[1]));
+                        gpsFix = true;
+                    }
+                    else
+                    {
+                        gpsFix = false;
+                    }
+                    
+
+                }
             } catch (Exception err) {
 				print (err.ToString ());
 			}
@@ -196,11 +232,13 @@ public class UDPReceive : MonoBehaviour
 		speedClient.Close ();
 		rotationClient.Close ();
         markerClient.Close();
+        gpsClient.Close();
 		int i = 0;
-		while (speedReceiveThread.IsAlive || rotationReceiveThread.IsAlive || markerReceiveThread.IsAlive) {
+		while (speedReceiveThread.IsAlive || rotationReceiveThread.IsAlive || markerReceiveThread.IsAlive || gpsReceiveThread.IsAlive) {
 			speedReceiveThread.Join ();
 			rotationReceiveThread.Join ();
             markerReceiveThread.Join();
+            gpsReceiveThread.Join();
             Debug.Log ("Waiting to close both threads");
 			i++;
 
@@ -214,6 +252,10 @@ public class UDPReceive : MonoBehaviour
 		speedReceiveThread.Abort ();
 		rotationReceiveThread.Abort ();
         markerReceiveThread.Abort();
+        gpsReceiveThread.Abort();
     }
-
+    public static Vector3 LatLonToVec(float lat, float lon)
+    {
+        return (Quaternion.AngleAxis(lon, -Vector3.up) * Quaternion.AngleAxis(lat, -Vector3.right) * new Vector3(0, 0, 1)) ;
+    }
 }
