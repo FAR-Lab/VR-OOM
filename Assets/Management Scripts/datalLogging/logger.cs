@@ -21,17 +21,17 @@ public class logger : MonoBehaviour{
 
     //public Variables
 	public bool doLog = true;
-	public int type=0;
+	public int type=0; // logging method (0=text file;1=MQTT;2=UDP)
 	public string ipAddress="localhost";
 	public int port = 8134;
 	private MqttClient client;
 
 
 
-	private System.Guid myGUID;
+	private System.Guid myGUID; // for multiple clients we generate a GUID 
 	int publishCount = 0;
-	List<log_message> listener_Objects = new List<log_message>();
-	double short_Timer	= 0;
+	List<log_message> listener_Objects = new List<log_message>(); // Main queue of messages to be send
+	double short_Timer	= 0;  //periodic automatic timming
 	double medium_Timer	= 0;
 	double long_Timer	= 0;
 	bool IsLogging=false;
