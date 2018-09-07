@@ -8,9 +8,9 @@ This is the main repository for VR-OOM. An on-road simulator hybrid that utilize
 ## Installation
 
 
-In order to install and run you need to install the submodules withthe command 
+In order to install and run you need to install the submodules withthe command:
 
-```git submodule update --init --recursive```.
+```git submodule update --init --recursive```
 
 
 **This Project is still very much under construction. Over the next few weeks and month both the project and documentation should become more and more extended to be more easily used by others.**
