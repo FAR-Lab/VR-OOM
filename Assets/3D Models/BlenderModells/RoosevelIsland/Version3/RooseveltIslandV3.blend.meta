@@ -1,34 +1,31 @@
 fileFormatVersion: 2
-guid: 55762d6639bc4a043ae28bf9343c038c
+guid: cd85ea9a447b5e74d8453549a6f9523b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Cube_002
-    100002: Cube_007
-    100004: Plane
-    100006: Plane_001
+    100000: Curve
+    100002: Curve_001
+    100004: Curve_002
+    100006: Curve_005
     100008: //RootNode
-    400000: Cube_002
-    400002: Cube_007
-    400004: Plane
-    400006: Plane_001
+    400000: Curve
+    400002: Curve_001
+    400004: Curve_002
+    400006: Curve_005
     400008: //RootNode
-    2300000: Cube_002
-    2300002: Cube_007
-    2300004: Plane
-    2300006: Plane_001
-    3300000: Cube_002
-    3300002: Cube_007
-    3300004: Plane
-    3300006: Plane_001
-    4300000: Cube_007
-    4300002: Plane_001
-    4300004: Plane
-    4300006: Cube_002
-    6400000: Cube_002
-    6400002: Cube_007
-    6400004: Plane
-    6400006: Plane_001
+    2100000: SVGMat
+    2300000: Curve
+    2300002: Curve_001
+    2300004: Curve_002
+    2300006: Curve_005
+    3300000: Curve
+    3300002: Curve_001
+    3300004: Curve_002
+    3300006: Curve_005
+    4300000: Curve_005
+    4300002: Curve_002
+    4300004: Curve_001
+    4300006: Curve
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -37,7 +34,7 @@ ModelImporter:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -65,19 +62,19 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
-    importVisibility: 0
+    addColliders: 0
+    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -89,8 +86,8 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
-  importAnimation: 0
+    normalCalculationMode: 4
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -106,10 +103,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

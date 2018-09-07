@@ -1,27 +1,31 @@
 fileFormatVersion: 2
-guid: 30dc177896e68904da225ca2db63a7d4
-timeCreated: 1528399982
-licenseType: Free
+guid: f19b6324fcf444b64b88c7a9cf9ddc2f
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Cube
-    100004: Plane
-    400000: //RootNode
-    400002: Cube
-    400004: Plane
-    2100000: unnamed
-    2300000: //RootNode
-    2300002: Cube
-    2300004: Plane
-    3300000: //RootNode
-    3300002: Cube
-    3300004: Plane
-    4300000: Plane
-    4300002: Cube
-    7400000: Default Take
-    9500000: //RootNode
+    100000: Curve
+    100002: Curve.001
+    100004: Curve.003
+    100006: Curve.004
+    100008: //RootNode
+    400000: Curve
+    400002: Curve.001
+    400004: Curve.003
+    400006: Curve.004
+    400008: //RootNode
+    2100000: SVGMat
+    2300000: Curve
+    2300002: Curve.001
+    2300004: Curve.003
+    2300006: Curve.004
+    3300000: Curve
+    3300002: Curve.001
+    3300004: Curve.003
+    3300006: Curve.004
+    4300000: Curve.004
+    4300002: Curve.003
+    4300004: Curve.001
+    4300006: Curve
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,6 +45,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -72,6 +77,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -96,7 +103,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
