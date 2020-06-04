@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 1000 800"
+   height="800"
+   width="1000"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="PaperFigure5.svg"
+   inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+   inkscape:export-xdpi="330"
+   inkscape:export-ydpi="330">
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     id="namedview190"
+     showgrid="false"
+     inkscape:zoom="1.2434559"
+     inkscape:cx="414.09381"
+     inkscape:cy="440.47855"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     width="1920px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false">
+    <sodipodi:guide
+       position="950,950"
+       orientation="0,1"
+       id="guide4648"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4755" />
+    <sodipodi:guide
+       position="0,930"
+       orientation="1,0"
+       id="guide4757"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1920,690"
+       orientation="1,0"
+       id="guide4759"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="960,1080"
+       orientation="1,0"
+       id="guide4761"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="480,1080"
+       orientation="1,0"
+       id="guide4763"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1440,920"
+       orientation="1,0"
+       id="guide4765"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-20,540"
+       orientation="0,1"
+       id="guide4844"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="330,900"
+       orientation="0,1"
+       id="guide4846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="820,230"
+       orientation="0,1"
+       id="guide4848"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="900,700"
+       orientation="0,1"
+       id="guide4850"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="680,40"
+       orientation="0,1"
+       id="guide4852"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1432.2563,757.52492"
+       orientation="0,1"
+       id="guide6830"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="740,550"
+       orientation="1,0"
+       id="guide8818"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="740,550"
+       orientation="-0.70710678,0.70710678"
+       id="guide8820"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="455,496"
+       orientation="0,1"
+       id="guide4409"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="770,274"
+       orientation="1,0"
+       id="guide4482"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="770,515"
+       orientation="1,0"
+       id="guide4484"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30,330"
+       orientation="1,0"
+       id="guide4486"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="390.48831,442.07564"
+       orientation="0.32213263,-0.94669455"
+       id="guide4507"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="373,436.12488"
+       orientation="-0.93056661,-0.36612265"
+       id="guide4509"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="830,278"
+       orientation="0,1"
+       id="guide4513"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="550,535"
+       orientation="1,0"
+       id="guide4534"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="282.72529,295"
+       orientation="0,1"
+       id="guide4599"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="640,405.5"
+       orientation="0,1"
+       id="guide4607"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="600,436"
+       orientation="1,0"
+       id="guide4609"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9431"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#f5ffff;stroke-width:1pt;stroke-opacity:1;fill:#f5ffff;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path9433" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path9202"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#f5ffff;stroke-width:1pt;stroke-opacity:1;fill:#f5ffff;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8959"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8961"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8865"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8867"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5490"
+       style="overflow:visible">
+      <path
+         id="path5492"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5316"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5177"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5179" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4851"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4853"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4359" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4611"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4613" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4571"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4573" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4537"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4539" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4509"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4511" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4487"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4489" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4217" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';letter-spacing:0px;word-spacing:0px;fill:#003cc8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="725"
+     y="130"
+     id="text4949"><tspan
+       sodipodi:role="line"
+       x="725"
+       y="130"
+       id="tspan4953"
+       style="font-size:22.5px;line-height:1.25"> </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';letter-spacing:0px;word-spacing:0px;fill:#003cc8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="725"
+     y="180"
+     id="text4961"><tspan
+       sodipodi:role="line"
+       x="725"
+       y="180"
+       id="tspan4963"
+       style="font-size:22.5px;line-height:1.25"> </tspan></text>
+  <g
+     transform="matrix(1.4945026,0,0,1.4945026,1066.6307,-962.3719)"
+     id="layer1"
+     inkscape:label="Ebene 1">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4144"
+       d="m 400,932.36213 -300,0 150,-260 z"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4151"
+       y="942.6709"
+       x="97.031868"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="942.6709"
+         x="97.031868"
+         id="tspan4153"
+         sodipodi:role="line"
+         style="font-size:27.5px;line-height:1.25">safety</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="250"
+       y="670.36218"
+       id="text4155"><tspan
+         sodipodi:role="line"
+         id="tspan4157"
+         x="250"
+         y="670.36218"
+         style="font-size:27.5px;line-height:1.25">scenarios</tspan></text>
+    <text
+       id="text4159"
+       y="945.07715"
+       x="402.09244"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="945.07715"
+         x="402.09244"
+         id="tspan4161"
+         sodipodi:role="line"
+         style="font-size:27.5px;line-height:1.25">realism</tspan></text>
+    <circle
+       r="20.5"
+       cy="802.36218"
+       cx="175"
+       id="path4165"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="5"
+       cy="802.36218"
+       cx="175"
+       id="path4169"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4173"
+       cx="250"
+       cy="932.36218"
+       r="5" />
+    <circle
+       r="20.5"
+       cy="932.36218"
+       cx="250"
+       id="circle4179"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="5"
+       cy="845.63141"
+       cx="250"
+       id="circle4189"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4191"
+       cx="250"
+       cy="845.63141"
+       r="20.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti TC';-inkscape-font-specification:'Heiti TC';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135"
+       y="802.36218"
+       id="text4193"><tspan
+         id="tspan4197"
+         sodipodi:role="line"
+         x="135"
+         y="802.36218"
+         style="font-size:17.5px;line-height:1.25">Car simulators</tspan><tspan
+         id="tspan4209"
+         sodipodi:role="line"
+         x="139.375"
+         y="824.23718"
+         style="font-size:17.5px;line-height:1.25"> </tspan></text>
+    <text
+       id="text4199"
+       y="987.36218"
+       x="250"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti TC';-inkscape-font-specification:'Heiti TC';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="987.36218"
+         x="250"
+         sodipodi:role="line"
+         id="tspan4203"
+         style="font-size:17.5px;line-height:1.25">Field studies</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4211"
+       d="m 17.773875,802.36216 147.226125,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-9)" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4843"
+       d="m 151.20137,987.36216 98.79863,0 0,-45"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4851)" />
+    <text
+       id="text5161"
+       y="889.42139"
+       x="206.20998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti TC';-inkscape-font-specification:'Heiti TC';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="889.42139"
+         x="206.20998"
+         sodipodi:role="line"
+         id="tspan5165"
+         style="font-size:17.5px;line-height:1.25">VR</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5169"
+       d="m 161.38865,889.42139 44.82133,0 35.64119,-35.64117"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5177)" />
+  </g>
+  <g
+     id="g8750"
+     transform="translate(-10,0)"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:4.96302414;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 514.40764,344.67813 495,430 l -40,0 -30,30 -20,-15"
+       id="path4269" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4298"
+       d="M 506.54342,372.46781 471,400 436,370"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:4.96302414;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="matrix(1.6543414,0,0,1.6543414,74.414653,-973.11089)"
+       id="g7846">
+      <circle
+         r="20"
+         cy="776.36218"
+         cx="-265"
+         id="circle4267"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f5ffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(-1,1)" />
+      <rect
+         rx="1.847985"
+         ry="4.2499886"
+         y="766.86218"
+         x="-262"
+         height="10.499977"
+         width="21.436626"
+         id="rect4275"
+         style="opacity:1;fill:#1ac800;fill-opacity:0.47005986;fill-rule:nonzero;stroke:#118c00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(-1,1)" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 255.81808,769.50095 c 0,0 -1.62769,3.0927 -0.12776,5.13908"
+         id="path7783" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 251.34883,769.83815 c 0,0 -1.73682,2.45306 -0.3721,4.5577"
+         id="path7785" />
+      <ellipse
+         style="opacity:1;fill:#c80000;fill-opacity:0;fill-rule:nonzero;stroke:#f5ffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path7787"
+         cx="12.826643"
+         cy="827.52374"
+         rx="3.7209692"
+         ry="2.930263"
+         transform="matrix(0.95545117,-0.29514921,0.29514921,0.95545117,0,0)" />
+      <rect
+         transform="scale(-1,1)"
+         style="opacity:1;fill:#003cc8;fill-opacity:1;fill-rule:nonzero;stroke:#003cc8;stroke-width:0.76899564;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4399"
+         width="3.0223527"
+         height="4.8357401"
+         x="-240.02625"
+         y="769.55756"
+         ry="1.1346679"
+         rx="0.45480233" />
+    </g>
+  </g>
+  <circle
+     style="opacity:1;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.53592811"
+     id="path7837"
+     cx="197.10124"
+     cy="480"
+     r="41.358536"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 60,520 680,0"
+     id="path7841"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <g
+     id="g8737"
+     transform="translate(-14,0)"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330">
+    <g
+       id="g8717"
+       transform="matrix(1.6543414,0,0,1.6543414,45.79345,-970.17579)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         id="path8719"
+         d="m 230,792.36216 10,30"
+         style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path8721"
+         d="m 235,807.36216 -25.72847,9.38328"
+         style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path8723"
+       d="m 415,390 2.5,-7.5 -2.5,-7.5 -5,-15 -10,0 -10,10 0,15 5,5 z"
+       style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path8725"
+       d="m 395,390 0,80 5,0 0,-80 z"
+       style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path8727"
+       d="m 410,450 15,15 5,0 0,5 -30,0 0,-5 20,0 -15,-15 z"
+       style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f5ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 740,470 -385,0 -20,-25 -10,0 20,25 -30,0 14.51123,-70 50,-20 L 366.91317,347.65269 315,350 l 95,-100 119,0 11,0 10,0 15,0 130,0 15,10"
+     id="path4503"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f5ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 740,239 720,225 580,225 391.44392,225.18488 250,360 80,380 59.51123,480 139.60879,480.21649 139.60279,480 c 1e-5,-31.48584 25.52432,-57.01014 57.01016,-57.01016 31.48584,2e-5 57.01016,25.52432 57.01016,57.01016 l 63.65982,0 L 740,480"
+     id="path4501"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccsccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <text
+     id="text6850"
+     y="545"
+     x="335"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';letter-spacing:0px;word-spacing:0px;fill:#118c00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan6852"
+       y="545"
+       x="335"
+       sodipodi:role="line"
+       style="font-size:22.5px;line-height:1.25"> </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC';letter-spacing:0px;word-spacing:0px;fill:#118c00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="335"
+     y="570"
+     id="text6854"><tspan
+       sodipodi:role="line"
+       x="335"
+       y="570"
+       id="tspan6856"
+       style="font-size:22.5px;line-height:1.25"> </tspan></text>
+  <text
+     id="text4937"
+     y="453.06042"
+     x="251.30937"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"><tspan
+       style="font-size:20px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;"
+       y="453.06042"
+       x="251.30937"
+       sodipodi:role="line"
+       id="tspan4941">OBD II</tspan></text>
+  <g
+     id="g8842"
+     transform="matrix(0.48145462,0,0,0.59336077,142.78543,192.02085)"
+     style="stroke:#002c93;stroke-opacity:1"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330">
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path8824"
+       d="m 300,445 -30,0 -5,0 c -5,0 -5,0 -5,5 5,10 5,10 10,10 l 15,0 15,0 c 5,0 5,0 10,-10 0,-5 0,-5 -5,-5 -5,0 -5,0 -5,0 z"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8826"
+       d="m 265,450 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8828"
+       d="m 275,450 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8830"
+       d="m 285,450 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8832"
+       d="m 295,450 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8834"
+       d="m 270,455 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8836"
+       d="m 280,455 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8838"
+       d="m 290,455 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8840"
+       d="m 300,455 5,0"
+       style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1.87095296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <path
+     style="opacity:1;fill:#969696;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 560,365 20,54 0,1 5,5 50,0 5,-5 0,-1 -55,0 -20,-54 -1,-1 -3,0 z"
+     id="rect9609"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <circle
+     style="opacity:1;fill:#003cc8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4299"
+     cx="280"
+     cy="470"
+     r="3"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4303"
+     d="m 525,465 0,25"
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <circle
+     r="3"
+     cy="465"
+     cx="525"
+     id="circle4305"
+     style="opacity:1;fill:#003cc8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#118c00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 570,365 0,-61 -62.73591,0"
+     id="path4309"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 385,475 0,15 90,0 40,0"
+     id="path4311"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <circle
+     style="opacity:1;fill:#003cc8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="circle4313"
+     cx="385"
+     cy="475"
+     r="3"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <text
+     id="text4315"
+     y="511.76999"
+     x="470.85095"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"><tspan
+       y="511.76999"
+       x="470.85095"
+       id="tspan4317"
+       sodipodi:role="line"
+       style="font-size:20px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;">steering</tspan></text>
+  <path
+     style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 585,430 -3,5 6,0 z"
+     id="path4321"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path4325"
+     d="m 505,304 5,3 0,-6 z"
+     style="fill:#118c00;fill-opacity:1;fill-rule:evenodd;stroke:#118c00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <circle
+     style="opacity:1;fill:#118c00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="circle4327"
+     cx="570"
+     cy="365"
+     r="3"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <text
+     id="text4329"
+     y="275.08749"
+     x="501.86841"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"><tspan
+       style="font-size:20px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;"
+       y="275.08749"
+       x="501.86841"
+       sodipodi:role="line"
+       id="tspan4605">Oculus Rift</tspan></text>
+  <path
+     sodipodi:nodetypes="cccc"
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 450,304 0,71 90,0 15,0"
+     id="path4401"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="444.50204"
+     y="311.70874"
+     id="text4403"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"><tspan
+       sodipodi:role="line"
+       id="tspan4405"
+       x="444.50204"
+       y="311.70874"
+       style="font-size:20px;line-height:1.25;stroke:#f5ffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;">LEAP</tspan></text>
+  <circle
+     r="3"
+     cy="304"
+     cx="450"
+     id="circle4407"
+     style="opacity:1;fill:#003cc8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 560,375 -5,3 0,-6 z"
+     id="path4411"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <g
+     transform="translate(198.08682,-4.3461)"
+     id="g4413"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"
+     style="stroke:#3c3c3c;stroke-opacity:1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:3.30868292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 511.91318,444.3461 -55,0"
+       id="path4415"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 491.91318,444.3461 0,30"
+       id="path4417"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:3.30868292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 506.54342,444.3461 16.54341,-82.71707"
+       id="path4419"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4540"
+       d="m 411.91318,429.3461 0,45"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:4.96302414;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 660,350 35,80 -40,0 -25,35 -20,-5"
+     id="path4423"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     sodipodi:nodetypes="ccc"
+     inkscape:connector-curvature="0"
+     id="path4425"
+     d="m 665,365 -5,40 -40,10"
+     style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:4.96302414;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <circle
+     transform="matrix(-0.90929448,0.41615326,0.41615326,0.90929448,0,0)"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f5ffff;stroke-width:4.96302414;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="circle4429"
+     cx="-452.93655"
+     cy="560.70044"
+     r="33.086826"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     id="path4433"
+     d="m 626.34117,321.6035 c 0,0 1.02033,5.69098 5.05841,6.83649"
+     style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:1.65434133999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     inkscape:transform-center-x="15.822789"
+     inkscape:transform-center-y="4.2054578"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     id="path4435"
+     d="m 620.85157,326.58765 c 0,0 0.22756,4.9672 4.14843,6.32621"
+     style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:1.65434133999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     inkscape:transform-center-x="21.767378"
+     inkscape:transform-center-y="8.9344677"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     style="opacity:1;fill:#c80000;fill-opacity:0;fill-rule:nonzero;stroke:#f5ffff;stroke-width:1.65434134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 644.87989,337.90141 c 1.78305,1.99715 1.17262,5.45164 -1.36344,7.71584 -2.53606,2.26419 -6.0374,2.48067 -7.82045,0.48353"
+     id="ellipse4437"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="525.14252"
+     y="428.85999"
+     id="text4933"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"><tspan
+       sodipodi:role="line"
+       id="tspan4935"
+       x="525.14252"
+       y="428.85999"
+       style="font-size:20px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;">IMU</tspan></text>
+  <g
+     id="g8745"
+     transform="translate(-10,0)"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"
+     style="stroke:#3c3c3c;stroke-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4251"
+       d="m 510,440 -53,0"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:3.30868292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4253"
+       d="m 490,440 0,30"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4257"
+       d="m 506.63024,440 16.54341,-82.71707"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:3.30868292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g9603"
+     transform="matrix(1.1726939,0,0,1.1926939,217.16785,-52.858377)"
+     style="stroke:#002c93;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330">
+    <rect
+       y="405"
+       x="250"
+       height="25"
+       width="25"
+       id="rect8853"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#003cc8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="410"
+       x="255"
+       height="10"
+       width="10"
+       id="rect8855"
+       style="opacity:1;fill:#003cc8;fill-opacity:1;fill-rule:nonzero;stroke:#003cc8;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8857"
+       d="m 270,425 0,-15"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9423"
+       d="m 270,425 -15,0"
+       style="fill:none;fill-rule:evenodd;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker9431)" />
+  </g>
+  <g
+     id="g7772"
+     transform="matrix(1.6543414,0,0,1.6543414,1.718078,-977.72829)"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330">
+    <path
+       id="path4259"
+       d="m 230,792.36216 10,30"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f5ffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4261"
+       d="m 235,807.36216 -10.57116,3.59706"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f5ffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <text
+     inkscape:export-ydpi="330"
+     inkscape:export-xdpi="330"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="289.22"
+     y="513.71997"
+     id="text4544"><tspan
+       id="tspan4546"
+       sodipodi:role="line"
+       x="289.22"
+       y="513.71997"
+       style="font-size:20px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;">km/hr</tspan></text>
+  <text
+     id="text4548"
+     y="511.76999"
+     x="539.09998"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"><tspan
+       style="font-size:20px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;"
+       y="511.76999"
+       x="539.09998"
+       sodipodi:role="line"
+       id="tspan4550">quaternion</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 525,490 0,15 10,0"
+     id="path4552"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4558"
+     d="m 385,490 0,15 5,0"
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     sodipodi:nodetypes="ccc"
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 280,470 0,35 5,0"
+     id="path4560"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="609.28387"
+     y="400.42374"
+     id="text4572"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330"><tspan
+       sodipodi:role="line"
+       id="tspan4574"
+       x="609.28387"
+       y="400.42374"
+       style="font-size:20px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#f5ffff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Light';font-family:'Helvetica Neue';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;">Unity</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4595"
+     d="m 280,490 95,0"
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+  <path
+     inkscape:export-ydpi="330"
+     inkscape:export-xdpi="330"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path4614"
+     d="m 520,490 -5,-3 0,6 z"
+     style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     inkscape:export-ydpi="330"
+     inkscape:export-xdpi="330"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     sodipodi:nodetypes="ccc"
+     inkscape:connector-curvature="0"
+     id="path4616"
+     d="m 525,490 60,0 0,-55"
+     style="fill:none;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:#003cc8;fill-opacity:1;fill-rule:evenodd;stroke:#003cc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 380,490 -5,-3 0,6 z"
+     id="path4618"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="/Users/davidgoedicke/Dropbox/thesis/Presentation/VROOM-systemV3BandW.png"
+     inkscape:export-xdpi="330"
+     inkscape:export-ydpi="330" />
+</svg>
